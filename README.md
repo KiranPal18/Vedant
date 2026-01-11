@@ -98,8 +98,3 @@ At night, visibility is low, and vehicles often appear fragmented (e.g., two dis
 * **numpy:** For matrix operations and efficient masking.
 
 ```
-
-### Next Step
-Since you mentioned `requirements.txt` in the README, do you need me to generate the content for that file based on the dependencies listed (OpenCV and NumPy)?
-
-```
