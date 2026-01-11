@@ -92,7 +92,7 @@ At night, visibility is low, and vehicles often appear fragmented (e.g., two dis
 * **Directionality:** The logic counts vehicles moving away from the camera (downward flow).
 * **Validation Strategy:** In the absence of an automated ground truth file, the algorithm was validated via manual human verification. Representative clips were reviewed frame-by-frame to tune thresholds (e.g., `min_blob_area`, `trip_y`) to match human perception.
 
-## 🛠 Dependencies
+## Dependencies
 
 * **opencv-python:** For image processing and computer vision tasks.
 * **numpy:** For matrix operations and efficient masking.
